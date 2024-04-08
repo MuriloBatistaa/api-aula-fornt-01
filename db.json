@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Caneta Azul"
+    },
+    
+    {
+      "id": "3",
+      "name": "camisa barcelona",
+      "price": 5
+    }
+  ],
+  "customer": [
+    {
+      "id": 1,
+      "name": "matheus"
+    }
+  ]
+}
